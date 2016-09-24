@@ -1,0 +1,148 @@
+[ Tue Jun 28 16:02:23 2016 ]=>  +013 [177385098] added SuperGroup
+ 
+[ Tue Jun 28 16:02:39 2016 ]=>  +013 [177385098] Used /superhelp
+ 
+[ Tue Jun 28 16:08:07 2016 ]=>  +013 [177385098] requested SuperGroup Admins list
+ 
+[ Tue Jun 28 16:10:22 2016 ]=>  +013 [177385098] locked link posting 
+ 
+[ Tue Jun 28 16:12:11 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:12:22 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:12:38 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:13:00 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:13:09 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:13:29 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:13:33 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:13:40 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:15:02 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:15:14 2016 ]=>  براءةفتاة [149932161] banned user is talking !
+ 
+[ Tue Jun 28 16:16:17 2016 ]=>  +013 [177385098] locked arabic 
+ 
+[ Tue Jun 28 16:18:41 2016 ]=>  +013 [177385098] requested SuperGroup Admins list
+ 
+[ Tue Jun 28 16:23:12 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Tue Jun 28 16:23:18 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Tue Jun 28 16:25:41 2016 ]=>  +013 [177385098] unlocked Arabic
+ 
+[ Tue Jun 28 16:31:33 2016 ]=>  +013 [177385098] Used /superhelp
+ 
+[ Tue Jun 28 16:31:37 2016 ]=>  +013 [177385098] Used /superhelp
+ 
+[ Tue Jun 28 16:35:34 2016 ]=>  +013 [177385098] used /owner
+ 
+[ Tue Jun 28 16:36:49 2016 ]=>  +013 [177385098] set flood to [5]
+ 
+[ Tue Jun 28 16:39:14 2016 ]=>  +013 [177385098] obtained id for: [181964435]
+ 
+[ Tue Jun 28 16:42:57 2016 ]=>  +013 [177385098] set SuperGroup to: mute Gifs
+ 
+[ Tue Jun 28 16:49:31 2016 ]=>  +013 [177385098] obtained id for: [169760294]
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [181964435] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [179733580] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [214820504] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [121482873] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [78675317] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [110500509] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [193211255] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [95160944] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [206632998] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [162929072] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [173775421] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [129935217] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [182523810] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [157468843] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [118580371] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [115873442] as owner by username
+ 
+[ Tue Jun 28 16:50:02 2016 ]=>  +013[177385098] set [169760294] as owner by username
+ 
+[ Tue Jun 28 16:50:22 2016 ]=>  +013 [177385098] used /owner
+ 
+[ Tue Jun 28 16:50:40 2016 ]=>  yazan [169760294] requested SuperGroup ID
+ 
+[ Tue Jun 28 18:28:32 2016 ]=>  +013 [177385098] requested group modlist
+ 
+[ Tue Jun 28 22:54:57 2016 ]=>  +013 [177385098] locked sticker posting
+ 
+[ Tue Jun 28 22:55:08 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Tue Jun 28 22:55:39 2016 ]=>  +013 [177385098] requested group modlist
+ 
+[ Thu Jun 30 22:59:50 2016 ]=>  +013 [177385098] set SuperGroup to: mute Photo
+ 
+[ Thu Jun 30 23:00:02 2016 ]=>  +013 [177385098] locked sticker posting
+ 
+[ Fri Sep  2 18:35:28 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Sun Sep  4 19:30:34 2016 ]=>  +013 [177385098] set SuperGroup to: mute Text
+ 
+[ Sun Sep  4 20:04:04 2016 ]=>  +013 [177385098] set SuperGroup to: unmute message
+ 
+[ Sun Sep  4 20:07:10 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Sun Sep  4 20:58:17 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Sun Sep  4 21:02:33 2016 ]=>  +013 [177385098] requested ID for: @Gkjad
+ 
+[ Sun Sep  4 21:03:16 2016 ]=>  +013 [177385098] obtained id for: [121482873]
+ 
+[ Sun Sep  4 21:24:31 2016 ]=>  لــ‘ــيــ‘ــثــ‘ــ£♡ـ آلــ‘ــشــ‘ــآمــ‘ــيــ‘ــ¿¥ [149860761] joined and Service Msg deleted (#spam name)
+ 
+[ Sun Sep  4 21:43:00 2016 ]=>  +013 [177385098] unlocked sticker posting
+ 

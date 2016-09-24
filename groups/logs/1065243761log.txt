@@ -1,0 +1,44 @@
+[ Tue Jun 28 18:04:23 2016 ]=>  +013 [177385098] added SuperGroup
+ 
+[ Tue Jun 28 18:04:33 2016 ]=>  +013 [177385098] set SuperGroup to: mute Documents
+ 
+[ Tue Jun 28 18:05:47 2016 ]=>  +013 [177385098] set SuperGroup to: mute Text
+ 
+[ Tue Jun 28 18:06:16 2016 ]=>  +013 [177385098] set SuperGroup to: unmute message
+ 
+[ Tue Jun 28 18:07:27 2016 ]=>  +013 [177385098] set SuperGroup to: mute Text
+ 
+[ Tue Jun 28 18:07:51 2016 ]=>  +013 [177385098] set SuperGroup to: unmute message
+ 
+[ Tue Jun 28 18:21:40 2016 ]=>  +013 [177385098] locked sticker posting
+ 
+[ Tue Jun 28 18:22:10 2016 ]=>  +013 [177385098] set SuperGroup to: mute Photo
+ 
+[ Tue Jun 28 18:26:32 2016 ]=>  +013 [177385098] demoted @Dai1bot
+ 
+[ Tue Jun 28 18:27:38 2016 ]=>  +013 [177385098] requested group modlist
+ 
+[ Tue Jun 28 18:28:05 2016 ]=>  +013 [177385098] demoted @Dai1bot
+ 
+[ Tue Jun 28 18:28:12 2016 ]=>  +013 [177385098] demoted @تتن
+ 
+[ Tue Jun 28 18:28:57 2016 ]=>  +013 [177385098] requested SuperGroup Admins list
+ 
+[ Tue Jun 28 18:29:23 2016 ]=>  +013 [177385098] Used /superhelp
+ 
+[ Tue Jun 28 18:30:10 2016 ]=>  +013 [177385098] demoted @Dai1bot
+ 
+[ Tue Jun 28 18:30:49 2016 ]=>  +013 [177385098] demoted @Dai1bot
+ 
+[ Tue Jun 28 18:30:54 2016 ]=>  +013 [177385098] Used /superhelp
+ 
+[ Tue Jun 28 18:33:49 2016 ]=>  +013 [177385098] set SuperGroup to: mute Audio
+ 
+[ Tue Jun 28 18:34:50 2016 ]=>  +013 [177385098] locked arabic 
+ 
+[ Tue Jun 28 21:06:39 2016 ]=>  +013 [177385098] set SuperGroup to: mute Photo
+ 
+[ Tue Jun 28 21:06:50 2016 ]=>  +013 [177385098] locked sticker posting
+ 
+[ Tue Jun 28 21:07:03 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 

@@ -1,0 +1,8 @@
+[ Fri Sep  2 14:02:29 2016 ]=>  +013 [177385098] added SuperGroup
+ 
+[ Fri Sep  9 16:03:41 2016 ]=>  +013 [177385098] requested SuperGroup ID
+ 
+[ Fri Sep  9 16:04:41 2016 ]=>  +013 [177385098] set SuperGroup to: mute Photo
+ 
+[ Fri Sep  9 16:04:50 2016 ]=>  +013 [177385098] locked sticker posting
+ 
